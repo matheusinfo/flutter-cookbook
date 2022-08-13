@@ -19,7 +19,6 @@ import 'package:flutter_docs/components/text-button.dart';
 import 'package:flutter_docs/components/icon-button.dart';
 import 'package:flutter_docs/components/radio-button.dart';
 import 'package:flutter_docs/components/alert-dialog.dart';
-import 'package:flutter_docs/components/silver-app-bar.dart';
 import 'package:flutter_docs/components/outlined-button.dart';
 import 'package:flutter_docs/components/expansion-panel.dart';
 import 'package:flutter_docs/components/elevated-button.dart';
@@ -48,107 +47,102 @@ class Painel extends StatelessWidget {
           child: DrawerComponent(),
         ),
         RouteComponent(
-          title: '04 - SilverAppBar',
-          sourceFilePath: 'lib/components/silver-app-bar.dart',
-          child: SilverAppBarComponent(),
-        ),
-        RouteComponent(
-          title: '05 - DropdownButton',
+          title: '04 - DropdownButton',
           sourceFilePath: 'lib/components/drawer.dart',
           child: DropDownComponent(),
         ),
         RouteComponent(
-          title: '06 - ElevatedButton',
+          title: '05 - ElevatedButton',
           sourceFilePath: 'lib/components/elevated-button.dart',
           child: ElevatedButtonComponent(),
         ),
         RouteComponent(
-          title: '07 - FloattingActionButton',
+          title: '06 - FloattingActionButton',
           sourceFilePath: 'lib/components/floating-action-button.dart',
           child: FloatingActionButtonComponent(),
         ),
         RouteComponent(
-          title: '08 - IconButton',
+          title: '07 - IconButton',
           sourceFilePath: 'lib/components/icon-button.dart',
           child: IconButtonComponent(),
         ),
         RouteComponent(
-          title: '09 - OutlinedButton',
+          title: '08 - OutlinedButton',
           sourceFilePath: 'lib/components/outlined-button.dart',
           child: OutlinedButtonComponent(),
         ),
         RouteComponent(
-          title: '10 - PopupMenuButton',
+          title: '09 - PopupMenuButton',
           sourceFilePath: 'lib/components/popup-menu.dart',
           child: PopupMenuComponent(),
         ),
         RouteComponent(
-          title: '11 - TexButton',
+          title: '10 - TexButton',
           sourceFilePath: 'lib/components/text-button.dart',
           child: TextButtonComponent(),
         ),
         RouteComponent(
-          title: '12 - Checkbox',
+          title: '11 - Checkbox',
           sourceFilePath: 'lib/components/checkbox.dart',
           child: CheckboxComponent(),
         ),
         RouteComponent(
-          title: '13 - Date & Time',
+          title: '12 - Date & Time',
           sourceFilePath: 'lib/components/date-picker.dart',
           child: DatePickerComponent(),
         ),
         RouteComponent(
-          title: '14 - Radio',
+          title: '13 - Radio',
           sourceFilePath: 'lib/components/radio-button.dart',
           child: RadioButtonComponent(),
         ),
         RouteComponent(
-          title: '15 - Slider',
+          title: '14 - Slider',
           sourceFilePath: 'lib/components/slider.dart',
           child: SliderComponent(),
         ),
         RouteComponent(
-          title: '16 - Switch',
+          title: '15 - Switch',
           sourceFilePath: 'lib/components/switch.dart',
           child: SwitchComponent(),
         ),
         RouteComponent(
-          title: '17 - AlertDialog',
+          title: '16 - AlertDialog',
           sourceFilePath: 'lib/components/alert-dialog.dart',
           child: AlerDialogComponent(),
         ),
         RouteComponent(
-          title: '18 - ExpansionPanel',
+          title: '17 - ExpansionPanel',
           sourceFilePath: 'lib/components/expansion-panel.dart',
           child: ExpansionPanelComponent(),
         ),
         RouteComponent(
-          title: '19 - SnackBar',
+          title: '18 - SnackBar',
           sourceFilePath: 'lib/components/snackbar.dart',
           child: SnackBarComponent(),
         ),
         RouteComponent(
-          title: '20 - Card',
+          title: '19 - Card',
           sourceFilePath: 'lib/components/card.dart',
           child: CardComponent(),
         ),
         RouteComponent(
-          title: '21 - DataTable',
+          title: '20 - DataTable',
           sourceFilePath: 'lib/components/datable.dart',
           child: DatableComponent(),
         ),
         RouteComponent(
-          title: '22 - GridView',
+          title: '21 - GridView',
           sourceFilePath: 'lib/components/gridview.dart',
           child: GridViewComponent(),
         ),
         RouteComponent(
-          title: '23 - Icon',
+          title: '22 - Icon',
           sourceFilePath: 'lib/components/icon.dart',
           child: IconComponent(),
         ),
         RouteComponent(
-          title: '24 - LinearProgressIndicator',
+          title: '23 - LinearProgressIndicator',
           sourceFilePath: 'lib/components/linear-progress-bar.dart',
           child: LinearProgressBarComponent(),
         ),

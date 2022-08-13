@@ -24,7 +24,7 @@ class RouteComponent extends StatelessWidget {
         context,
         MaterialPageRoute(
           builder: (context) => Padding(
-            padding: const EdgeInsets.only(top: 20.0),
+            padding: const EdgeInsets.only(top: 25.0),
             child: WidgetWithCodeView(
               child: this.child,
               sourceFilePath: this.sourceFilePath,
