@@ -39,7 +39,7 @@ class About extends StatelessWidget {
             'Código disponível no GitHub',
             style: TextStyle(fontSize: 14),
           ),
-          onTap: () => url_launcher.launchUrl(Uri.parse('https://github.com/matheusinfo')),
+          onTap: () => url_launcher.launchUrl(Uri.parse('https://github.com/matheusinfo/flutter_cookbook')),
         ),
         ExpansionTile(
           title: const Text(
@@ -77,6 +77,14 @@ class About extends StatelessWidget {
               ),
               onTap: () => url_launcher.launchUrl(
                   Uri.parse('https://www.alura.com.br/artigos/flutter-como-configurar-o-ambiente-de-desenvolvimento')),
+            ),
+            ListTile(
+              title: const Text(
+                'Flutter Catalog - Aplicativo principal',
+                style: TextStyle(fontSize: 14),
+              ),
+              onTap: () => url_launcher.launchUrl(
+                  Uri.parse('https://play.google.com/store/apps/details?id=io.github.x_wei.flutter_catalog')),
             ),
           ],
         ),
