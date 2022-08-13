@@ -76,7 +76,7 @@ class About extends StatelessWidget {
                 style: TextStyle(fontSize: 14),
               ),
               onTap: () => url_launcher.launchUrl(
-                  Uri.parse('https://www.alura.com.br/artigos/flutter-como-configurar-o-ambiente-de-desenvolvimento')),
+                  Uri.parse('https://pub.dev/')),
             ),
             ListTile(
               title: const Text(

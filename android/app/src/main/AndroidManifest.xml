@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flutter_docs">
    <application
-        android:label="flutter_docs"
+        android:label="Flutter - Guia de bolso"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
