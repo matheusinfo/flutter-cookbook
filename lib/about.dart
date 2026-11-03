@@ -39,7 +39,7 @@ class About extends StatelessWidget {
             'Código disponível no GitHub',
             style: TextStyle(fontSize: 14),
           ),
-          onTap: () => url_launcher.launchUrl(Uri.parse('https://github.com/matheusinfo/flutter_cookbook')),
+          onTap: () => url_launcher.launchUrl(Uri.parse('https://github.com/matheusinfo/flutter-cookbook')),
         ),
         ExpansionTile(
           title: const Text(
