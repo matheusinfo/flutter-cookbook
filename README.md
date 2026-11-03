@@ -1,4 +1,25 @@
-# Política de Privacidade
+# Flutter - Guia de bolso
+
+App Android/iOS feito em Flutter que funciona como um guia de bolso para quem está começando no framework. Projeto acadêmico, desenvolvido por [Matheus Andrade](https://github.com/matheusinfo) e humigod.
+
+## O que tem no app
+
+- **Documentação:** 23 widgets do Material Design (AppBar, Drawer, botões, Checkbox, Slider, DataTable, GridView, entre outros), cada um com um exemplo funcionando e o código-fonte ao lado
+- **Instalação:** passo a passo para instalar o Flutter no Windows, no Linux e no macOS
+- **Sobre:** créditos e referências do material usado
+
+## Como rodar
+
+```bash
+flutter pub get
+flutter run
+```
+
+Os exemplos ficam em `lib/components/`, um arquivo por widget.
+
+---
+
+## Política de Privacidade
 
 **Última atualização: 4 de outubro de 2026**
 
@@ -6,7 +27,7 @@ Esta Política de Privacidade descreve como o aplicativo **flutter_docs** trata 
 
 O aplicativo é um projeto de caráter estudantil e foi desenvolvido utilizando o framework Flutter.
 
-## 1. Coleta de informações
+### 1. Coleta de informações
 
 O aplicativo **não coleta, armazena ou processa informações pessoais dos usuários** por meio de seus próprios sistemas.
 
@@ -21,31 +42,31 @@ Não solicitamos informações como:
 * Fotografias ou arquivos pessoais;
 * Identificadores utilizados para rastreamento.
 
-## 2. Compartilhamento de informações
+### 2. Compartilhamento de informações
 
 Como o aplicativo não coleta informações pessoais, **não compartilhamos informações pessoais dos usuários com terceiros**.
 
 O aplicativo também não vende, aluga ou comercializa informações pessoais dos usuários.
 
-## 3. Serviços de terceiros
+### 3. Serviços de terceiros
 
 O aplicativo pode utilizar componentes ou bibliotecas de terceiros necessários para seu funcionamento.
 
 Caso sejam utilizados serviços de terceiros que coletem ou processem dados, suas respectivas políticas de privacidade poderão se aplicar. Recomenda-se consultar a documentação e as políticas dos serviços utilizados.
 
-## 4. Segurança
+### 4. Segurança
 
 Embora não haja coleta de informações pessoais pelo aplicativo, adotamos medidas razoáveis para manter o aplicativo seguro e reduzir riscos relacionados ao uso indevido de informações.
 
 Nenhum método de transmissão ou armazenamento eletrônico é completamente seguro, portanto não podemos garantir segurança absoluta.
 
-## 5. Privacidade de crianças
+### 5. Privacidade de crianças
 
 O aplicativo não é destinado especificamente à coleta de informações de crianças.
 
 Como não coletamos informações pessoais por meio do aplicativo, não solicitamos conscientemente dados pessoais de crianças.
 
-## 6. Alterações nesta Política de Privacidade
+### 6. Alterações nesta Política de Privacidade
 
 Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações no aplicativo, em seus recursos ou nas exigências legais e das plataformas de distribuição.
 
@@ -53,7 +74,7 @@ Quando houver alterações, a data de atualização apresentada no início desta
 
 Recomendamos que os usuários consultem esta página periodicamente para verificar eventuais alterações.
 
-## 7. Contato
+### 7. Contato
 
 Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de informações pelo aplicativo, entre em contato:
 
